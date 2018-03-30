@@ -1,0 +1,74 @@
+# Device properties
+---
+PE-NLUT-001:
+  model: ASR9010
+  device_id: 15503
+  room: COLO1
+  rack: 2248
+  location: Utrecht
+PE-NLUT-002:
+  model: ASR9010
+  device_id: 15502
+  room: COLO2
+  rack: 3452
+  location: Utrecht
+DC-NLUT-001:
+  model: N7K
+  device_id: 16285
+  room: COLO1
+  rack: 2251
+  location: Utrecht
+DC-NLUT-002:
+  model: N7K
+  device_id: 16286
+  room: COLO2
+  rack: 2251
+  location: Utrecht
+DC-NLUT-003:
+  model: N7K
+  device_id: 18675
+  room: COLO1
+  rack: 3451
+  location: Utrecht
+DC-NLUT-004:
+  model: N7K
+  device_id: 18674
+  room: COLO2
+  rack: 3451
+  location: Utrecht
+PE-NLAM-003:
+  model: ASR9010
+  device_id: 15858
+  room: IX
+  rack: 8
+  location: Amsterdam
+PE-NLAM-004:
+  model: ASR9010
+  device_id: 15861
+  room: IX
+  rack: 19
+  location: Amsterdam
+DC-NLAM-001:
+  model: N7K
+  device_id: 18955
+  room: IX
+  rack: 23
+  location: Amsterdam
+DC-NLAM-003:
+  model: N7K
+  device_id: 18956
+  room: IX
+  rack: 23
+  location: Amsterdam
+DC-NLUT-034:
+  model: CATALYST4948
+  device_id: 17035
+  room: COLO1
+  rack: 4849
+  location: Utrecht
+DC-NLUT-035:
+  model: CATALYST4948
+  device_id: 17036
+  room: COLO1
+  rack: 4851
+  location: Utrecht
