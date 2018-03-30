@@ -9,14 +9,14 @@ A Connectivity Request is used by network engineers to create or remove connecti
 The patch request is a connectivity request enhanced with information like datacenter room, rack, etc.
 
 
-# Usage
+## Usage
 The script needs two inputs:
 1. The connectivity 
 2. A file with device definitions.
 
 A connectivity request has this format:
-> Create source-device source-port  -  destination-device destination-port
-> Remove source-device source-port  -  destination-device destination-port
+> Create source-device source-port  -  destination-device destination-port  
+> Remove source-device source-port  -  destination-device destination-port  
 
 The Device Definitions are imported from a file in YAML format. This file contains a list of devices with its attributes. A device entry looks like this:
 >       aDeviceName:
@@ -26,6 +26,6 @@ The Device Definitions are imported from a file in YAML format. This file contai
 >           rack: aRack
 >           location: aLocation
    
-   
-# Disclaimer
+
+## Disclaimer
 The script doesn't check missing files or syntax errors. It is for personal use only.
