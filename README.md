@@ -10,8 +10,8 @@ The patch request is a connectivity request enhanced with information like datac
 
 
 ## Usage
-The script needs two inputs:
-1. The connectivity 
+The script needs two input files:
+1. The connectivity request.
 2. A file with device definitions.
 
 A connectivity request has this format:
