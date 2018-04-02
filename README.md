@@ -9,7 +9,7 @@ A *patch request* is an excel file that is sent to the cabling team. This team p
 ## Usage
 The script uses two input files:
 1. The connectivity request.
-2. A file with device definitions.
+2. A file with device definitions/properties.
 
 A connectivity request has this format:
 > Create source-device source-port  -  destination-device destination-port  
